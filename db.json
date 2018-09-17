@@ -1,5 +1,4 @@
-
-  "nodes": [
+"nodes": [
     { "id": 111111111111, "SenseID": "Value" },
     { "id": 111111111112, "SenseID": "Value" },
     { "id": 111111111113, "SenseID": "Value" }
