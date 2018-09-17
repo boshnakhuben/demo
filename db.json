@@ -5,8 +5,8 @@
     { "id": 111111111113, "SenseID": "Value" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "ValueId": 1 },
+    { "id": 2, "body": "some comment", "ValueId": 1 }
   ],
   "profile": {
     "name": "typicode"
